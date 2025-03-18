@@ -8,7 +8,9 @@ Um projeto simples de sorteio de amigo secreto feito com **HTML, CSS e JavaScrip
 - Interface intuitiva e fácil de usar  
 
 ## 📸 Capturas de Tela  
-(Adicione imagens do seu projeto aqui)  
+
+![Captura de tela_18-3-2025_132510_127 0 0 1](https://github.com/user-attachments/assets/7c6c302e-5f1c-49ac-900c-34e7980f3148)
+![Captura de tela_18-3-2025_13243_127 0 0 1](https://github.com/user-attachments/assets/9a42f196-22b8-4230-8f0a-a9feab5ff6de)
 
 ## 🛠️ Tecnologias Utilizadas  
 - HTML  
